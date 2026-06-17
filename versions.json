@@ -8,7 +8,7 @@
     },
     "ModelValidator": {
       "latest_version": "6.1.2.4",
-      "release_date": "2026-06-17",
+      "release_date": "2026-06-18",
       "release_notes": "- **Added support for managing existing simulation sets in the PSCAD case.** This is helpful in case user has already configured some simulation sets in the PSCAD case that are required for basic PSCAD run. The tool will not disturb those simulation sets.",
       "download_url": "https://enerzinx.atlassian.net/wiki/spaces/EIP/pages/869203986/Model+Validator+Tool+Installer+and+Binaries"
     }
