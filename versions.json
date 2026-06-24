@@ -1,9 +1,9 @@
 {
   "applications": {
     "ModelValidatorExternal": {
-      "latest_version": "6.1.2.5",
-      "release_date": "2026-06-19",
-      "release_notes": "### PSCAD Channel Auto-Mapping\n\n- **Automatic Channel Type Detection at Browse Time.** When a PSCAD case is browsed, the tool now reads the output channel list directly from the scan file and immediately evaluates whether the minimum required channels are present as per the PSCAD SOP channel naming convention. This naming convention can be accessed from newly created documentation menu. This auto identification is helpful in AI channel mapping that can be used in auto validating the results\n\n### Documentation\n\n- **New Documentation Menu.** A **Documentation** menu has been added to the main menu bar. It automatically discovers all documentation files in the application's documentation folder and creates a menu entry for each one. New documentation files added to the folder appear in the menu on the next launch without any code changes.\n\n- **New PSCAD Channel Naming SOP Guide.** A dedicated user-facing guide (`pscad_channel_naming_sop.md`) describes the ViewZ channel naming convention for PSCAD cases — including the full quantity token table, location tokens, minimum required channels per measurement point, and how to handle multiple inverter or generator instances.\n\n### Validation AI mapper\n\n- **AI Channel Mapping:** In Validation configuration, an AI mapper is added that helps user to map the channels as per auto validations, which are helpful in evaulating simulations as per utility guidelines",
+      "latest_version": "6.1.3.1",
+      "release_date": "2026-06-24",
+      "release_notes": "- **Rectified a bug related to channel mapping score**\n-",
       "download_url": "https://enerzinx.atlassian.net/wiki/spaces/EGT/pages/2449509921/Installer+and+Binaries"
     },
     "ModelValidator": {
