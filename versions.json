@@ -2,7 +2,7 @@
   "applications": {
     "ModelValidatorExternal": {
       "latest_version": "6.1.3.1",
-      "release_date": "2026-06-29",
+      "release_date": "2026-07-02",
       "release_notes": "- **Rectified a bug related to channel mapping score**\n-",
       "download_url": "https://enerzinx.atlassian.net/wiki/spaces/EGT/pages/2449509921/Installer+and+Binaries"
     },
