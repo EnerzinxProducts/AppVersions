@@ -7,9 +7,9 @@
       "download_url": "https://enerzinx.atlassian.net/wiki/spaces/EGT/pages/2449509921/Installer+and+Binaries"
     },
     "ModelValidator": {
-      "latest_version": "6.1.3.2",
-      "release_date": "2026-07-17",
-      "release_notes": "",
+      "latest_version": "6.2.0.0",
+      "release_date": "2026-07-28",
+      "release_notes": "###  Grid Voltage Frequency Ratio (VFR) Tests\n\n- **New Voltage Frequency Ratio Test.** Added support for a new VFratio test event, automatically triggered when a `.plb` profile contains changes to both voltage and frequency. Existing `.plb` file configuration is unaffected — the same format used for standard PLB profiles applies.\n- **PSCAD Templates Updated for VFR Test.** PSCAD templates v2.0.2 and v2.0.3 now include a dedicated logic for handling voltage frequency ratios.\n\n### New PSCAD Templates\n\n- **PSCAD Templates v2.0.2 and v2.0.3.** Two new PSCAD template versions are available, offering different Three-Phase Voltage Source Models. The previous versions of PSCAD templates has been removed.\n\n### Bug Fixes\n\n- **Rectified the bug where `.plb` file not being read entirely.** A bug related to last line of `.plb` event file not being read by the PSCAD template for simulations has been fixed.\n- **Addition of two generic models to dyr database.** REGCC and REECE models has been added to model database.",
       "download_url": "https://enerzinx.atlassian.net/wiki/spaces/EIP/pages/869203986/Model+Validator+Tool+Installer+and+Binaries"
     }
   }
