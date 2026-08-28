@@ -8,7 +8,7 @@
     },
     "ModelValidator": {
       "latest_version": "6.2.2.3",
-      "release_date": "2026-08-27",
+      "release_date": "2026-08-28",
       "release_notes": "### Additional Simulation Options tab\n\n- **Addition of Additional Simulation Options** Added Thresholds options under Additional Simulation Options tab in PSSE settings. Now user can set the Load Model Thresholds for the PSSE runs as per requirement.",
       "download_url": "https://enerzinx.atlassian.net/wiki/spaces/EIP/pages/869203986/Model+Validator+Tool+Installer+and+Binaries"
     }
