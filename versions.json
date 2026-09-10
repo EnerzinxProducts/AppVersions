@@ -7,9 +7,9 @@
       "download_url": "https://enerzinx.atlassian.net/wiki/spaces/EGT/pages/2449509921/Installer+and+Binaries"
     },
     "ModelValidator": {
-      "latest_version": "6.2.2.5",
-      "release_date": "2026-09-10",
-      "release_notes": "### Report Editor — Tests Meta\n\n- **Fixed: Per-Test Xmin/Xmax No Longer Disappears When the Report Editor Is Reopened.** Xmin/Xmax values entered for individual tests in the Tests Meta table previously reverted to blank the next time the New Report dialog was reopened, or as soon as the test list refreshed - even though they had been saved correctly. These values are now restored correctly every time.\n- **Fixed: Per-Test Xmin/Xmax Now Actually Applies to Generated Reports.** Per-test Xmin/Xmax values set in the Tests Meta table previously had no effect on the generated report - every plot used the global Xmin/Xmax instead. Report generation now uses the per-test values wherever they're set.\n\n### PSS/E Transformer Tap Control\n\n- **Fixed: Manually Set Transformer Taps No Longer Get Reverted by Automatic Adjustment.** Manually setting a transformer's tap ratio (for example, to align PSS/E's terminal voltage with a PSCAD benchmark) previously reverted back to its automatic value after the next solve, because PSS/E's automatic tap adjustment stayed enabled for that transformer. Setting a tap manually now also disables automatic adjustment for it, so the value you set is the value that's kept.\n- **Fixed: Some Manually Set Tap Values Were Silently Written in the Wrong Units.** A transformer's tap change could be interpreted in the wrong units, so a manually specified ratio never actually matched what was requested. Tap changes are now always written using the correct units.",
+      "latest_version": "7.0.4.2",
+      "release_date": "2026-09-11",
+      "release_notes": "",
       "download_url": "https://enerzinx.atlassian.net/wiki/spaces/EIP/pages/869203986/Model+Validator+Tool+Installer+and+Binaries"
     }
   }
