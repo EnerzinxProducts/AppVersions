@@ -7,7 +7,7 @@
       "download_url": "https://enerzinx.atlassian.net/wiki/spaces/EGT/pages/2449509921/Installer+and+Binaries"
     },
     "ModelValidator": {
-      "latest_version": "6.2.2.7",
+      "latest_version": "7.0.6.1",
       "release_date": "2026-09-25",
       "release_notes": "### PSSE Convert/Reconstruct Loads and Generators\n\n- **Added configurable CONL load conversion support** User can now configure active and reactive constant-current/admittance load percentages.",
       "download_url": "https://enerzinx.atlassian.net/wiki/spaces/EIP/pages/869203986/Model+Validator+Tool+Installer+and+Binaries"
