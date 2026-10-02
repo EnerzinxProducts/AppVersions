@@ -1,9 +1,9 @@
 {
   "applications": {
     "ModelValidatorExternal": {
-      "latest_version": "7.0.6.1",
-      "release_date": "2026-10-01",
-      "release_notes": "### PSSE Convert/Reconstruct Loads and Generators\n\n- **Added configurable CONL load conversion support** User can now configure active and reactive constant-current/admittance load percentages.",
+      "latest_version": "8.0.0.0",
+      "release_date": "2026-10-02",
+      "release_notes": "",
       "download_url": "https://enerzinx.atlassian.net/wiki/spaces/EGT/pages/2449509921/Installer+and+Binaries"
     },
     "ModelValidator": {
