@@ -7,9 +7,9 @@
       "download_url": "https://enerzinx.atlassian.net/wiki/spaces/EGT/pages/2449509921/Installer+and+Binaries"
     },
     "ModelValidator": {
-      "latest_version": "7.0.6.1",
-      "release_date": "2026-10-01",
-      "release_notes": "### PSSE Convert/Reconstruct Loads and Generators\n\n- **Added configurable CONL load conversion support** User can now configure active and reactive constant-current/admittance load percentages.",
+      "latest_version": "8.0.1.0",
+      "release_date": "2026-10-09",
+      "release_notes": "### Report Config Editor\n\n- **Curve IDs Now Show Their Channel and Source.** In the PlotToCurvesMap and Metrics tabs, each CurveId is now displayed together with the channel and source it was defined with in CurvesConfig (e.g. `C1 - METER_VPU_POC_1 [PSCAD]`), both in the cell and in the selection dropdown. This makes it easy to tell which curve is which without switching back to CurvesConfig. The label is display-only: the saved configuration and exported Excel file still contain just the CurveId.",
       "download_url": "https://enerzinx.atlassian.net/wiki/spaces/EIP/pages/869203986/Model+Validator+Tool+Installer+and+Binaries"
     }
   }
