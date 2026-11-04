@@ -1,8 +1,8 @@
 {
   "applications": {
     "ModelValidatorExternal": {
-      "latest_version": "8.8.1.0",
-      "release_date": "2026-11-03",
+      "latest_version": "6.2.2.8",
+      "release_date": "2026-11-04",
       "release_notes": "",
       "download_url": "https://enerzinx.atlassian.net/wiki/spaces/EGT/pages/2449509921/Installer+and+Binaries"
     },
